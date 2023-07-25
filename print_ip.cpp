@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <list>
 
 template<typename T>
 auto func(T t)-> decltype(-t){
