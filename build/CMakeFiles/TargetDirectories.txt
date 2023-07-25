@@ -1,0 +1,9 @@
+/home/test/Desktop/print_ip/build/CMakeFiles/install/strip.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/install/local.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/package_source.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/install.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/list_install_components.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/rebuild_cache.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/package.dir
+/home/test/Desktop/print_ip/build/CMakeFiles/print_ip.dir
